@@ -6,7 +6,6 @@ Files:
 - `linear_regression/gradient_descent.py` — core implementation (fit/predict/mse).
 - `demo.py` — generate synthetic data, fit model, save plots and print results.
 - `tests/test_gradient_descent.py` — pytest unit test.
-- `report_AAT2.md` — short analysis of deep learning real-world applications.
 - `requirements.txt` — Python dependencies.
 
 How to run:
@@ -29,4 +28,3 @@ python demo.py
 python -m pytest -q
 ```
 
-If you want me to implement additional algorithms listed in your Excel sheet (AAT1), please upload the sheet or paste the list and I'll add them.
