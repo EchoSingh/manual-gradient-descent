@@ -1,6 +1,6 @@
 # AAT: Manual Gradient Descent for Linear Regression
 
-This small project implements batch gradient descent for linear regression from scratch (no scikit-learn). It includes a demo script, a unit test, and a short report on deep learning applications for AAT2.
+This small project implements batch gradient descent for linear regression from scratch (no scikit-learn).
 
 Files:
 - `linear_regression/gradient_descent.py` — core implementation (fit/predict/mse).
